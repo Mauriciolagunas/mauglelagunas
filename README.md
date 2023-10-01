@@ -23,3 +23,7 @@ no tienen decimales (además del cero). En Python se pueden representar mediante
 La única diferencia es que el tipo **long** permite almacenar números
 más grandes. Es aconsejable no utilizar el tipo long a menos que sea
 necesario, para no malgastar memoria.
+
+```py
+real = 0.2703
+```
